@@ -18,4 +18,4 @@ Agrego cambios a stage para ser commiteados
 
 Respondo a la pregunta planteada
 
-pregunta:
+pregunta: la imagen no estaba disponible en la rama master pero si el link al ultimo agregue la imagen en la rama master
